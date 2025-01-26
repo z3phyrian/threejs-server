@@ -1,4 +1,4 @@
-# Three.js Server with Puppeteer
+# Three.js Server for Origami Studio
 
 This is a Node.js project that renders a Three.js scene to an image and serves it via an Express.js API.
 
