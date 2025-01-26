@@ -4,8 +4,10 @@ This is a Node.js project that renders a Three.js scene to an image and serves i
 
 ## Requirements
 
-- Node.js (version 14.x or higher)
+- Node.js (version 22.9 or higher)
 - npm
+
+## MAKE SURE TO UPDATE YOUR NODEJS VERSION IN VSCODE!!
 
 ## Installation
 
