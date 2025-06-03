@@ -11,12 +11,12 @@
   "description": "",
   "dependencies": {
     "canvas": "^3.1.0",
-    "express": "^4.21.2",
+    "express": "^5.1.0",
     "jpeg-js": "^0.4.4",
-    "jsdom": "^26.0.0",
+    "jsdom": "^26.1.0",
     "path": "^0.12.7",
     "pngjs": "^7.0.0",
-    "three": "^0.124.0"
+    "three": "^0.177.0"
   },
   "optionalDependencies": {
     "gl": "*"
